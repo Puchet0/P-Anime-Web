@@ -1,0 +1,53 @@
+# Dependencies
+node_modules/
+
+# Build
+dist/
+.vite/
+
+# Environment files (real secrets stay OUT of git)
+.env
+.env.local
+.env.*.local
+.env.production
+
+# Local cache
+.puchflix-cache/
+covers/
+anilist-cache/
+metadata/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# ── AI / IDE tooling (NEVER commit) ──────────────────────────────────────────
+
+# Claude Code
+.claude/
+.claude*.json
+CLAUDE.local.md
+
+# OpenClaude / OpenAI profiles
+.openclaude/
+.openclaude-profile.json
+
+# MCP config (contains access tokens)
+.mcp.json
+
+# Cursor
+.cursor/
+.cursorignore
+.cursorrules
+
+# Copilot
+.github/copilot-instructions.md
+
+# Other AI assistants
+.aider*
+.gemini/
+.gemini.md
+copilot-instructions.md

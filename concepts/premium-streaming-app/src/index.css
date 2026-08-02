@@ -1,0 +1,55 @@
+@import "tailwindcss";
+
+@theme {
+  --color-background: #0B0B0C;
+  --color-surface: #16161A;
+  --color-surface-hover: #1E2024;
+  --color-primary: #D9A441;
+  --color-primary-hover: #c8953a;
+  --color-text: #F2EFE9;
+  --color-text-muted: #A39E92;
+  --color-border: #2A2722;
+  --color-accent-glow: #F4D58D;
+}
+
+body {
+  background-color: var(--color-background);
+  color: var(--color-text);
+  font-family: Inter, system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+/* Display font for headings */
+.font-display {
+  font-family: Fraunces, Georgia, serif;
+}
+
+/* Scrollbar hide utility */
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+/* Custom ease */
+.ease-premium {
+  transition-timing-function: cubic-bezier(0.23, 1, 0.32, 1);
+}
+
+/* Glass nav */
+.nav-glass {
+  background: rgba(11, 11, 12, 0.82);
+  backdrop-filter: blur(24px);
+  -webkit-backdrop-filter: blur(24px);
+}
+.nav-glass.scrolled {
+  background: rgba(11, 11, 12, 0.95);
+  box-shadow: 0 1px 12px rgba(0, 0, 0, 0.4);
+}

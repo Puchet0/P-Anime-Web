@@ -1,0 +1,46 @@
+version: '3.8'
+
+services:
+  puchflix:
+    build:
+      context: .
+      dockerfile: Dockerfile.multi
+      args:
+        # Frontend env vars (baked into build)
+        - VITE_API_URL=${VITE_API_URL:-/api/v1}
+        - VITE_API_KEY=${VITE_API_KEY}
+        - VITE_SUPABASE_URL=${VITE_SUPABASE_URL}
+        - VITE_SUPABASE_ANON_KEY=${VITE_SUPABASE_ANON_KEY}
+    container_name: puchflix
+    ports:
+      - "8181:80"
+      - "3002:3001"
+    volumes:
+      - ./api-backend/covers:/app/api-backend/covers
+      - api-cache:/app/api-backend/cache
+    environment:
+      # Backend env vars
+      - NODE_ENV=${NODE_ENV:-production}
+      - PORT=${PORT:-3001}
+      - API_KEYS=${API_KEYS}
+      - DISABLE_AUTH=${DISABLE_AUTH:-false}
+      - DISABLE_RATE_LIMIT=${DISABLE_RATE_LIMIT:-false}
+      - DAILY_REQUEST_LIMIT=${DAILY_REQUEST_LIMIT:-100}
+      - REQUEST_TIMEOUT_MS=${REQUEST_TIMEOUT_MS:-15000}
+      - DEFAULT_ANIME_DOMAIN=${DEFAULT_ANIME_DOMAIN:-animeav1.com}
+      # Supabase (required for security logging)
+      - SUPABASE_URL=${SUPABASE_URL}
+      - SUPABASE_SERVICE_ROLE_KEY=${SUPABASE_SERVICE_ROLE_KEY}
+      # CORS (production only)
+      - CORS_ORIGINS=${CORS_ORIGINS}
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "wget", "-qO-", "http://localhost:8181/"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+
+volumes:
+  api-cache:
+    driver: local

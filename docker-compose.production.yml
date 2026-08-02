@@ -1,0 +1,54 @@
+# ⚠️ DEPRECATED — use docker-compose.yaml (single image) instead.
+# This file is kept for reference only. Hardcoded secrets have been removed.
+# If you need to use this file, set env vars via Coolify instead of args.
+
+version: '3.8'
+
+services:
+  anime1v-api:
+    build:
+      context: ./api-backend
+      dockerfile: Dockerfile
+    container_name: anime1v-api
+    ports:
+      - "3001:3001"
+    environment:
+      - NODE_ENV=production
+      - PORT=3001
+      - DISABLE_AUTH=false
+      - DISABLE_RATE_LIMIT=false
+    volumes:
+      - ./api-backend/covers:/app/covers
+      - api-cache:/app/cache
+    restart: unless-stopped
+    networks:
+      - puchflix-network
+    healthcheck:
+      test: ["CMD", "wget", "-qO-", "http://localhost:3001/"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+
+  anime1v-frontend:
+    build:
+      context: ./concepts/premium-streaming-app
+      dockerfile: Dockerfile
+      args:
+        - VITE_API_URL=/api/v1
+    container_name: anime1v-frontend
+    ports:
+      - "8093:80"
+    depends_on:
+      - anime1v-api
+    restart: unless-stopped
+    networks:
+      - puchflix-network
+
+volumes:
+  api-cache:
+    driver: local
+
+networks:
+  puchflix-network:
+    driver: bridge

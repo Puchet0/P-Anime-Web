@@ -1,0 +1,812 @@
+{
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/package.json": {
+    "mtime": 1778884002.7724578,
+    "ast_hash": "d1de0d1dfb97aee5ce50cda4dda7f61e",
+    "semantic_hash": "d1de0d1dfb97aee5ce50cda4dda7f61e"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.openclaude-profile.json": {
+    "mtime": 1779287205.1745143,
+    "ast_hash": "0162ba767ea34ad2c026c3a30cc91b8d",
+    "semantic_hash": "0162ba767ea34ad2c026c3a30cc91b8d"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.mcp.json": {
+    "mtime": 1779287205.1735144,
+    "ast_hash": "787db515c17c1a0ef1574ae15de698e1",
+    "semantic_hash": "787db515c17c1a0ef1574ae15de698e1"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/skills-lock.json": {
+    "mtime": 1778456898.7395952,
+    "ast_hash": "3bc20bf112ee94db37a9f7165adf6a9f",
+    "semantic_hash": "3bc20bf112ee94db37a9f7165adf6a9f"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/api-backend/descargador.js": {
+    "mtime": 1778380844.614901,
+    "ast_hash": "8eeb7845e674b846ab320aebbc98116f",
+    "semantic_hash": "8eeb7845e674b846ab320aebbc98116f"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/api-backend/package.json": {
+    "mtime": 1779132850.0934765,
+    "ast_hash": "89bc2df7de1b0aeb15d5c9b9176adadb",
+    "semantic_hash": "89bc2df7de1b0aeb15d5c9b9176adadb"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/api-backend/Apis/anime1v/ejemplo-anime-api.js": {
+    "mtime": 1778380844.6148324,
+    "ast_hash": "bd33d8e7db957bc46bad372c3f6b489c",
+    "semantic_hash": "bd33d8e7db957bc46bad372c3f6b489c"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/api-backend/src/server.js": {
+    "mtime": 1778736232.8635297,
+    "ast_hash": "58ff9ca84c984e7cd224e9438a87d183",
+    "semantic_hash": "58ff9ca84c984e7cd224e9438a87d183"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/api-backend/src/middlewares/rate-limit.js": {
+    "mtime": 1778380844.6160896,
+    "ast_hash": "2bd405262336156a8df33e5033006212",
+    "semantic_hash": "2bd405262336156a8df33e5033006212"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/api-backend/src/middlewares/auth.js": {
+    "mtime": 1778608774.8023014,
+    "ast_hash": "ebeb90ce8a94e854d40b05a8c49cb55c",
+    "semantic_hash": "ebeb90ce8a94e854d40b05a8c49cb55c"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/api-backend/src/services/coverCache.service.js": {
+    "mtime": 1778729243.0909424,
+    "ast_hash": "f3e8571b3ab7dd2300b00352d9aa7063",
+    "semantic_hash": "f3e8571b3ab7dd2300b00352d9aa7063"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/api-backend/src/services/tioanime.service.js": {
+    "mtime": 1778614246.4634705,
+    "ast_hash": "c9db52d494a8dd8c454da916a40a25bf",
+    "semantic_hash": "c9db52d494a8dd8c454da916a40a25bf"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/api-backend/src/services/download.service.js": {
+    "mtime": 1778380844.6163006,
+    "ast_hash": "6d1ed4ccfd48fc2c415746d81813338b",
+    "semantic_hash": "6d1ed4ccfd48fc2c415746d81813338b"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/api-backend/src/services/hentaila.service.js": {
+    "mtime": 1778380844.6163006,
+    "ast_hash": "8f3dd6900006f84f2e66f8fa825e08a6",
+    "semantic_hash": "8f3dd6900006f84f2e66f8fa825e08a6"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/api-backend/src/services/monoschinos.service.js": {
+    "mtime": 1778380844.6163006,
+    "ast_hash": "c166b7a4b652c2ff901c222b61ef0276",
+    "semantic_hash": "c166b7a4b652c2ff901c222b61ef0276"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/api-backend/src/services/anime.service.js": {
+    "mtime": 1780065836.3255715,
+    "ast_hash": "09b73654b0e025c670ada548a7e28670",
+    "semantic_hash": "09b73654b0e025c670ada548a7e28670"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/api-backend/src/services/anilistCache.service.js": {
+    "mtime": 1778699430.1271205,
+    "ast_hash": "f51cc9447f6b0f9d30b9f4d9affcfa49",
+    "semantic_hash": "f51cc9447f6b0f9d30b9f4d9affcfa49"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/api-backend/src/services/animeflv.service.js": {
+    "mtime": 1778380844.6163006,
+    "ast_hash": "1017d92946172939d0db77c93a46d0a6",
+    "semantic_hash": "1017d92946172939d0db77c93a46d0a6"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/api-backend/src/services/animeav1.service.js": {
+    "mtime": 1778531928.0130785,
+    "ast_hash": "bf6c09c64ed9768b1ab9349e84c19565",
+    "semantic_hash": "bf6c09c64ed9768b1ab9349e84c19565"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/api-backend/src/services/jkanime.service.js": {
+    "mtime": 1778531928.0130785,
+    "ast_hash": "bc30bb83c2a11e53c372fd66e9407c1a",
+    "semantic_hash": "bc30bb83c2a11e53c372fd66e9407c1a"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/api-backend/src/routes/anime.routes.js": {
+    "mtime": 1778817319.0168016,
+    "ast_hash": "cfc2b4e520150786e894abb6b474b431",
+    "semantic_hash": "cfc2b4e520150786e894abb6b474b431"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/api-backend/src/utils/api-error.js": {
+    "mtime": 1778380844.6163006,
+    "ast_hash": "bc11d95aa9b31b5e16d79dbec890a467",
+    "semantic_hash": "bc11d95aa9b31b5e16d79dbec890a467"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/api-backend/tests/run_and_monitor.js": {
+    "mtime": 1778380844.6172316,
+    "ast_hash": "8e914cfb23fcefa3f3bef689e7bb63eb",
+    "semantic_hash": "8e914cfb23fcefa3f3bef689e7bb63eb"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/api-backend/tests/regex_test.js": {
+    "mtime": 1778380844.6163006,
+    "ast_hash": "7febca8724bbf8f473dc0186417ed84d",
+    "semantic_hash": "7febca8724bbf8f473dc0186417ed84d"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.agents/skills/diagnose/scripts/hitl-loop.template.sh": {
+    "mtime": 1778456898.543074,
+    "ast_hash": "46a2a00761be2785e59661f0e3c11471",
+    "semantic_hash": "46a2a00761be2785e59661f0e3c11471"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.claude/skills/diagnose/scripts/hitl-loop.template.sh": {
+    "mtime": 1778456940.7323883,
+    "ast_hash": "46a2a00761be2785e59661f0e3c11471",
+    "semantic_hash": "46a2a00761be2785e59661f0e3c11471"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/puchflix-anime/tsconfig.json": {
+    "mtime": 1778596713.340362,
+    "ast_hash": "a3d39fa780ebff65444de257f291ce6c",
+    "semantic_hash": "a3d39fa780ebff65444de257f291ce6c"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/puchflix-anime/package.json": {
+    "mtime": 1778699771.6538281,
+    "ast_hash": "ccfbc2f415b30506d60757c3a87e4906",
+    "semantic_hash": "ccfbc2f415b30506d60757c3a87e4906"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/puchflix-anime/eslint.config.js": {
+    "mtime": 1778596713.334816,
+    "ast_hash": "0355276bc79439afe3c53e3a2470ca1e",
+    "semantic_hash": "0355276bc79439afe3c53e3a2470ca1e"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/puchflix-anime/vite.config.ts": {
+    "mtime": 1778700431.7929533,
+    "ast_hash": "effad1b706f365a1b66827550ebb654c",
+    "semantic_hash": "effad1b706f365a1b66827550ebb654c"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/puchflix-anime/vitest.config.ts": {
+    "mtime": 1778700444.927209,
+    "ast_hash": "82a4b3992e114a5fdd1d85975f9c2d42",
+    "semantic_hash": "82a4b3992e114a5fdd1d85975f9c2d42"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/puchflix-anime/tsconfig.node.json": {
+    "mtime": 1778596713.340362,
+    "ast_hash": "70bdd0a673bcfc0e828080b306e7c680",
+    "semantic_hash": "70bdd0a673bcfc0e828080b306e7c680"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/puchflix-anime/tsconfig.app.json": {
+    "mtime": 1778596713.340362,
+    "ast_hash": "136630b5accce1ca50663df229534a26",
+    "semantic_hash": "136630b5accce1ca50663df229534a26"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/puchflix-anime/src/main.tsx": {
+    "mtime": 1778611953.3676853,
+    "ast_hash": "3916812ddd0e5d3eb5d5ef0b2aa179bf",
+    "semantic_hash": "3916812ddd0e5d3eb5d5ef0b2aa179bf"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/puchflix-anime/src/services/cachePersister.ts": {
+    "mtime": 1778612069.4819536,
+    "ast_hash": "7bda2423adbf2f1ac1190cbdeb255a8f",
+    "semantic_hash": "7bda2423adbf2f1ac1190cbdeb255a8f"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/puchflix-anime/src/services/cacheService.ts": {
+    "mtime": 1779297925.5219307,
+    "ast_hash": "3af9339fab8de6354ed05dc763d96eec",
+    "semantic_hash": "3af9339fab8de6354ed05dc763d96eec"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/puchflix-anime/src/components/anime/AnimeCard.tsx": {
+    "mtime": 1778729928.6523526,
+    "ast_hash": "6b0911bddc0515cbd296c0da6a022f89",
+    "semantic_hash": "6b0911bddc0515cbd296c0da6a022f89"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/puchflix-anime/src/components/anime/AnimeGrid.tsx": {
+    "mtime": 1778699579.2800498,
+    "ast_hash": "ec53d710b9fb0efe207c7ac07ae03e48",
+    "semantic_hash": "ec53d710b9fb0efe207c7ac07ae03e48"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/puchflix-anime/src/components/layout/Navbar.tsx": {
+    "mtime": 1778601925.6118264,
+    "ast_hash": "b4843c2120d21931996292b6e458de1e",
+    "semantic_hash": "b4843c2120d21931996292b6e458de1e"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/puchflix-anime/src/components/layout/Layout.tsx": {
+    "mtime": 1778596713.3771834,
+    "ast_hash": "84fc6185709543debe20b74bec3b0186",
+    "semantic_hash": "84fc6185709543debe20b74bec3b0186"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/puchflix-anime/src/components/player/VideoPlayer.tsx": {
+    "mtime": 1778596713.3771834,
+    "ast_hash": "e366b7c4e4c75bb4fffced83cb077c11",
+    "semantic_hash": "e366b7c4e4c75bb4fffced83cb077c11"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/puchflix-anime/src/components/auth/AuthModal.tsx": {
+    "mtime": 1778601925.6118264,
+    "ast_hash": "a0381cfa244d1fd1313afb5b43532592",
+    "semantic_hash": "a0381cfa244d1fd1313afb5b43532592"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/puchflix-anime/src/pages/WatchPage.tsx": {
+    "mtime": 1778811897.1578345,
+    "ast_hash": "65306f601c4885c0711034e1c929aa50",
+    "semantic_hash": "65306f601c4885c0711034e1c929aa50"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/puchflix-anime/src/pages/HistoryPage.tsx": {
+    "mtime": 1778596713.3391826,
+    "ast_hash": "f32ed4398d591191318e2b656e609726",
+    "semantic_hash": "f32ed4398d591191318e2b656e609726"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/puchflix-anime/src/pages/FavoritesPage.tsx": {
+    "mtime": 1778596713.3391826,
+    "ast_hash": "5a05241a877315b78b9ee889724e6e60",
+    "semantic_hash": "5a05241a877315b78b9ee889724e6e60"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/puchflix-anime/src/pages/SearchPage.tsx": {
+    "mtime": 1778784019.5982542,
+    "ast_hash": "02a48cb4ed25f91b5a7de090cd060422",
+    "semantic_hash": "02a48cb4ed25f91b5a7de090cd060422"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/puchflix-anime/src/pages/AnimePage.tsx": {
+    "mtime": 1778814395.5366209,
+    "ast_hash": "ef63d31f85e0946abb4382722226a495",
+    "semantic_hash": "ef63d31f85e0946abb4382722226a495"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/puchflix-anime/src/pages/ProfilePage.tsx": {
+    "mtime": 1778606275.7944887,
+    "ast_hash": "1438b7149908b2f60b75875fea71fbba",
+    "semantic_hash": "1438b7149908b2f60b75875fea71fbba"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/puchflix-anime/src/pages/HomePage.tsx": {
+    "mtime": 1778682798.419322,
+    "ast_hash": "7bbf94f42770f11d891da693ad4f7a61",
+    "semantic_hash": "7bbf94f42770f11d891da693ad4f7a61"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/puchflix-anime/src/hooks/useAnimeEnriched.ts": {
+    "mtime": 1778596713.3771834,
+    "ast_hash": "7df5dd995e10bfcb2bc113d5c65e8e74",
+    "semantic_hash": "7df5dd995e10bfcb2bc113d5c65e8e74"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/puchflix-anime/src/hooks/useCoverProxy.test.ts": {
+    "mtime": 1778700719.3695498,
+    "ast_hash": "6026a411cf1980450ae3a06de87b3c1a",
+    "semantic_hash": "6026a411cf1980450ae3a06de87b3c1a"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/puchflix-anime/src/hooks/useEpisode.ts": {
+    "mtime": 1778772732.5973697,
+    "ast_hash": "e46f31631e27880f46e1bed0cc305ffb",
+    "semantic_hash": "e46f31631e27880f46e1bed0cc305ffb"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/puchflix-anime/src/hooks/useCoverProxy.ts": {
+    "mtime": 1779297032.9965498,
+    "ast_hash": "1952855c4a8ed96c05e9daa7fe637f07",
+    "semantic_hash": "1952855c4a8ed96c05e9daa7fe637f07"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/puchflix-anime/src/hooks/useAnimeInfo.ts": {
+    "mtime": 1778596713.3388782,
+    "ast_hash": "cb883e6a448de4ce731da26461662a73",
+    "semantic_hash": "cb883e6a448de4ce731da26461662a73"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/puchflix-anime/src/hooks/useHomepageData.ts": {
+    "mtime": 1778596713.3731835,
+    "ast_hash": "3a856b7b26b47d308c8e6a0e90a60752",
+    "semantic_hash": "3a856b7b26b47d308c8e6a0e90a60752"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/puchflix-anime/src/hooks/useAnimeSearch.ts": {
+    "mtime": 1778596713.357183,
+    "ast_hash": "933e4cce0ca7e2a30671dd9ca491f46d",
+    "semantic_hash": "933e4cce0ca7e2a30671dd9ca491f46d"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/puchflix-anime/src/context/AuthContext.tsx": {
+    "mtime": 1778611542.6536627,
+    "ast_hash": "ca5a6a48e6473afd8db9bfc8b012e1a6",
+    "semantic_hash": "ca5a6a48e6473afd8db9bfc8b012e1a6"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/puchflix-anime/src/store/historyStore.ts": {
+    "mtime": 1778611628.9453483,
+    "ast_hash": "c63dc6dbc14bb0740d18faa76af23a7d",
+    "semantic_hash": "c63dc6dbc14bb0740d18faa76af23a7d"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/puchflix-anime/src/store/playerStore.ts": {
+    "mtime": 1778596713.340362,
+    "ast_hash": "68b600d6a496d854d90fbaf112aea45c",
+    "semantic_hash": "68b600d6a496d854d90fbaf112aea45c"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/puchflix-anime/src/store/favoritesStore.ts": {
+    "mtime": 1778596713.3391826,
+    "ast_hash": "38ba829d65f0d4064209d742a27ca895",
+    "semantic_hash": "38ba829d65f0d4064209d742a27ca895"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/puchflix-anime/src/api/auth.types.ts": {
+    "mtime": 1778606230.2876003,
+    "ast_hash": "0dbd9a4b4cd0d828224f5173037e2f75",
+    "semantic_hash": "0dbd9a4b4cd0d828224f5173037e2f75"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/puchflix-anime/src/api/anilist.types.ts": {
+    "mtime": 1778596713.3771834,
+    "ast_hash": "005c158f3cd0b377399c499d59b27036",
+    "semantic_hash": "005c158f3cd0b377399c499d59b27036"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/puchflix-anime/src/api/types.ts": {
+    "mtime": 1778682262.2168367,
+    "ast_hash": "f6e0dc2f624bd24481a52a76ca06de6b",
+    "semantic_hash": "f6e0dc2f624bd24481a52a76ca06de6b"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/puchflix-anime/src/api/anilist.api.ts": {
+    "mtime": 1778820809.118477,
+    "ast_hash": "6be2d2c7decca644dbc08dc51169ded9",
+    "semantic_hash": "6be2d2c7decca644dbc08dc51169ded9"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/puchflix-anime/src/api/anime.api.ts": {
+    "mtime": 1778799972.5799606,
+    "ast_hash": "7adac06ba235222ce957d6546788b52c",
+    "semantic_hash": "7adac06ba235222ce957d6546788b52c"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/puchflix-anime/src/api/supabase.ts": {
+    "mtime": 1778606222.8524551,
+    "ast_hash": "d6448a0286315e358560485753be3cc4",
+    "semantic_hash": "d6448a0286315e358560485753be3cc4"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/puchflix-anime/src/api/axiosClient.ts": {
+    "mtime": 1778596713.3370302,
+    "ast_hash": "22aa9cc4a9321cd7ee3cea0991dc3583",
+    "semantic_hash": "22aa9cc4a9321cd7ee3cea0991dc3583"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/puchflix-anime/src/api/auth.api.ts": {
+    "mtime": 1778611527.885374,
+    "ast_hash": "0ab491c5ff6ecd18cbad7eda21dfc955",
+    "semantic_hash": "0ab491c5ff6ecd18cbad7eda21dfc955"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/puchflix-anime/src/utils/helpers.ts": {
+    "mtime": 1778727079.6585543,
+    "ast_hash": "448ae400ba3cf20a31b0b62ff4fd3163",
+    "semantic_hash": "448ae400ba3cf20a31b0b62ff4fd3163"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/puchflix-anime/src/utils/persistClient.ts": {
+    "mtime": 1778596713.357183,
+    "ast_hash": "6568cffa268c2df09205932d41c6d5ce",
+    "semantic_hash": "6568cffa268c2df09205932d41c6d5ce"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/puchflix-anime/src/router/AppRouter.tsx": {
+    "mtime": 1778601925.6126814,
+    "ast_hash": "ef6206cfe1ed47495de2bd81961988e8",
+    "semantic_hash": "ef6206cfe1ed47495de2bd81961988e8"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.openclaude/settings.local.json": {
+    "mtime": 1778601528.1619241,
+    "ast_hash": "9c128048130ace1e18affd24078ad41a",
+    "semantic_hash": "9c128048130ace1e18affd24078ad41a"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/docker-compose.yaml": {
+    "mtime": 1779308170.0219495,
+    "ast_hash": "e7f46d4d72fe9607902c41069fd31bd5",
+    "semantic_hash": "e7f46d4d72fe9607902c41069fd31bd5"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/docker-readme.md": {
+    "mtime": 1778596713.3878758,
+    "ast_hash": "0e3010ef6cb33564933a40770c3165b4",
+    "semantic_hash": "0e3010ef6cb33564933a40770c3165b4"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/docker-compose.single.yml": {
+    "mtime": 1779159158.640414,
+    "ast_hash": "b96266b7475efb452b384840a290e94e",
+    "semantic_hash": "b96266b7475efb452b384840a290e94e"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/docker-compose.production.yml": {
+    "mtime": 1779310337.86317,
+    "ast_hash": "be3d4e753995c5983a084955cf36b3bf",
+    "semantic_hash": "be3d4e753995c5983a084955cf36b3bf"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/coolify-deploy.md": {
+    "mtime": 1778596984.5994895,
+    "ast_hash": "c7b8f31d4cde85f4810317f2eac69e3a",
+    "semantic_hash": "c7b8f31d4cde85f4810317f2eac69e3a"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/supabase.txt": {
+    "mtime": 1778601503.3404396,
+    "ast_hash": "e576060d42bbd98520721f56255aa633",
+    "semantic_hash": "e576060d42bbd98520721f56255aa633"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/README.md": {
+    "mtime": 1779281846.9226243,
+    "ast_hash": "24654c1e5da5ca162f03026599f58dc8",
+    "semantic_hash": "24654c1e5da5ca162f03026599f58dc8"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/api-backend/jkanime.txt": {
+    "mtime": 1778380844.614901,
+    "ast_hash": "096e7a3bc493040f67d7781886ab9733",
+    "semantic_hash": "096e7a3bc493040f67d7781886ab9733"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/api-backend/animeflv.txt": {
+    "mtime": 1778380844.614901,
+    "ast_hash": "f0c243ccb588b1c9eb7b03915bee7708",
+    "semantic_hash": "f0c243ccb588b1c9eb7b03915bee7708"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/api-backend/CONTRIBUTING.md": {
+    "mtime": 1778380844.6148324,
+    "ast_hash": "53d1d46a0c31d3cc04dbbe3a32d4ff86",
+    "semantic_hash": "53d1d46a0c31d3cc04dbbe3a32d4ff86"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/api-backend/README.md": {
+    "mtime": 1778380844.614901,
+    "ast_hash": "b18897c8afc17c9e2c5e60e76eaab40b",
+    "semantic_hash": "b18897c8afc17c9e2c5e60e76eaab40b"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/api-backend/Apis/anime1v/anime-scraper-api.md": {
+    "mtime": 1778380844.6148324,
+    "ast_hash": "438d4d6974020d255d7ec43c49637159",
+    "semantic_hash": "438d4d6974020d255d7ec43c49637159"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/api-backend/Apis/anime1v/MEGA-FILTER-INFO.md": {
+    "mtime": 1778380844.6148324,
+    "ast_hash": "9a2d9179af0cb7358534db2ba2a251aa",
+    "semantic_hash": "9a2d9179af0cb7358534db2ba2a251aa"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/api-backend/Apis/anime1v/CAMBIOS-ANIMEAV1.md": {
+    "mtime": 1778380844.6146803,
+    "ast_hash": "f7015483e73e851e554a89027964a3b7",
+    "semantic_hash": "f7015483e73e851e554a89027964a3b7"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/api-backend/Apis/anime1v/README.md": {
+    "mtime": 1778380844.6148324,
+    "ast_hash": "7438de1356ebca74b12c4862075acb7b",
+    "semantic_hash": "7438de1356ebca74b12c4862075acb7b"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/api-backend/Apis/anime1v/GUIA-ANIME-API.md": {
+    "mtime": 1778380844.6148324,
+    "ast_hash": "89a3be0f5660f119de922e0b9657078b",
+    "semantic_hash": "89a3be0f5660f119de922e0b9657078b"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/api-backend/.github/PULL_REQUEST_TEMPLATE.md": {
+    "mtime": 1778380844.6144955,
+    "ast_hash": "03dfb977750253db0ea509f6ae371652",
+    "semantic_hash": "03dfb977750253db0ea509f6ae371652"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/api-backend/.github/ISSUE_TEMPLATE/bug_report.md": {
+    "mtime": 1778380844.6144955,
+    "ast_hash": "19cc73991843efc911fb76ce119396fa",
+    "semantic_hash": "19cc73991843efc911fb76ce119396fa"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.agents/skills/improve-codebase-architecture/DEEPENING.md": {
+    "mtime": 1778456898.5785701,
+    "ast_hash": "ebdd48f7e3b0afeb8085d797df543e1a",
+    "semantic_hash": "ebdd48f7e3b0afeb8085d797df543e1a"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.agents/skills/improve-codebase-architecture/SKILL.md": {
+    "mtime": 1778456898.5786943,
+    "ast_hash": "38f2089311c7cb0fa42d2dc4a3e1340e",
+    "semantic_hash": "38f2089311c7cb0fa42d2dc4a3e1340e"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.agents/skills/improve-codebase-architecture/INTERFACE-DESIGN.md": {
+    "mtime": 1778456898.578592,
+    "ast_hash": "aee2c0695396f8c6432ba5bfe547f195",
+    "semantic_hash": "aee2c0695396f8c6432ba5bfe547f195"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.agents/skills/improve-codebase-architecture/LANGUAGE.md": {
+    "mtime": 1778456898.5786943,
+    "ast_hash": "680627d828b489f96b92d4a2d7fa3bb6",
+    "semantic_hash": "680627d828b489f96b92d4a2d7fa3bb6"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.agents/skills/setup-matt-pocock-skills/SKILL.md": {
+    "mtime": 1778456898.616728,
+    "ast_hash": "a9e22edd638f1b2bd5b3e2934eb209c3",
+    "semantic_hash": "a9e22edd638f1b2bd5b3e2934eb209c3"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.agents/skills/setup-matt-pocock-skills/domain.md": {
+    "mtime": 1778456898.6167595,
+    "ast_hash": "477d9959972912279da5677825ef61c3",
+    "semantic_hash": "477d9959972912279da5677825ef61c3"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.agents/skills/setup-matt-pocock-skills/issue-tracker-local.md": {
+    "mtime": 1778456898.6168582,
+    "ast_hash": "0f479992c0a4fd62a0d1be807f31e132",
+    "semantic_hash": "0f479992c0a4fd62a0d1be807f31e132"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.agents/skills/setup-matt-pocock-skills/issue-tracker-github.md": {
+    "mtime": 1778456898.6167595,
+    "ast_hash": "b3268117bb0bb6b731632d35d6a1369a",
+    "semantic_hash": "b3268117bb0bb6b731632d35d6a1369a"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.agents/skills/setup-matt-pocock-skills/issue-tracker-gitlab.md": {
+    "mtime": 1778456898.616828,
+    "ast_hash": "e91b1122d99f423b5375142a14b68f76",
+    "semantic_hash": "e91b1122d99f423b5375142a14b68f76"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.agents/skills/setup-matt-pocock-skills/triage-labels.md": {
+    "mtime": 1778456898.6168582,
+    "ast_hash": "22add54cb98451c55b20e6b7992d4a85",
+    "semantic_hash": "22add54cb98451c55b20e6b7992d4a85"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.agents/skills/to-issues/SKILL.md": {
+    "mtime": 1778456898.6488652,
+    "ast_hash": "a26ffd48dbf2d0ad29f65369b7dda42e",
+    "semantic_hash": "a26ffd48dbf2d0ad29f65369b7dda42e"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.agents/skills/write-a-skill/SKILL.md": {
+    "mtime": 1778456898.7224882,
+    "ast_hash": "492ef034b4fc9e497cc69b8fed78a742",
+    "semantic_hash": "492ef034b4fc9e497cc69b8fed78a742"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.agents/skills/grill-with-docs/SKILL.md": {
+    "mtime": 1778456898.5585606,
+    "ast_hash": "5ad241e49d5ffcd394eeff3a5ca46953",
+    "semantic_hash": "5ad241e49d5ffcd394eeff3a5ca46953"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.agents/skills/grill-with-docs/CONTEXT-FORMAT.md": {
+    "mtime": 1778456898.5585606,
+    "ast_hash": "57e7e26a1a46884f8f952c67fb233af2",
+    "semantic_hash": "57e7e26a1a46884f8f952c67fb233af2"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.agents/skills/grill-with-docs/ADR-FORMAT.md": {
+    "mtime": 1778456898.5585916,
+    "ast_hash": "bb327bab674f400796f64b6e2ef5850c",
+    "semantic_hash": "bb327bab674f400796f64b6e2ef5850c"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.agents/skills/zoom-out/SKILL.md": {
+    "mtime": 1778456898.6888204,
+    "ast_hash": "204f114b01386f4a0a8e6c7784266369",
+    "semantic_hash": "204f114b01386f4a0a8e6c7784266369"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.agents/skills/grill-me/SKILL.md": {
+    "mtime": 1778456898.7115436,
+    "ast_hash": "8cb45c74133150e6a00f18b2059aae8c",
+    "semantic_hash": "8cb45c74133150e6a00f18b2059aae8c"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.agents/skills/diagnose/SKILL.md": {
+    "mtime": 1778456898.5429895,
+    "ast_hash": "70cd92c9a5219eb8db60629b1bf59949",
+    "semantic_hash": "70cd92c9a5219eb8db60629b1bf59949"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.agents/skills/to-prd/SKILL.md": {
+    "mtime": 1778456898.660111,
+    "ast_hash": "6b2fd61841ec7c51e148f8483f378a65",
+    "semantic_hash": "6b2fd61841ec7c51e148f8483f378a65"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.agents/skills/caveman/SKILL.md": {
+    "mtime": 1778456898.7007551,
+    "ast_hash": "d675bd2128851ccb38a88a15fd941986",
+    "semantic_hash": "d675bd2128851ccb38a88a15fd941986"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.agents/skills/triage/SKILL.md": {
+    "mtime": 1778456898.6774218,
+    "ast_hash": "dafdaa928b34a5c317fd190591c89a65",
+    "semantic_hash": "dafdaa928b34a5c317fd190591c89a65"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.agents/skills/triage/OUT-OF-SCOPE.md": {
+    "mtime": 1778456898.6774218,
+    "ast_hash": "d3fcb04f7f250f2d07ce4ccbc3a26c7d",
+    "semantic_hash": "d3fcb04f7f250f2d07ce4ccbc3a26c7d"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.agents/skills/triage/AGENT-BRIEF.md": {
+    "mtime": 1778456898.6774218,
+    "ast_hash": "7f815fa62b523f97710dde414f98e70b",
+    "semantic_hash": "7f815fa62b523f97710dde414f98e70b"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.agents/skills/tdd/SKILL.md": {
+    "mtime": 1778456898.6381936,
+    "ast_hash": "7ca080c0a0b0986e031fe6a47771d57e",
+    "semantic_hash": "7ca080c0a0b0986e031fe6a47771d57e"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.agents/skills/tdd/deep-modules.md": {
+    "mtime": 1778456898.6381936,
+    "ast_hash": "fee2c44ab025f43e10ed717bb42cc9c2",
+    "semantic_hash": "fee2c44ab025f43e10ed717bb42cc9c2"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.agents/skills/tdd/interface-design.md": {
+    "mtime": 1778456898.638324,
+    "ast_hash": "fc309d957e5735a1ac3d27023842fa1b",
+    "semantic_hash": "fc309d957e5735a1ac3d27023842fa1b"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.agents/skills/tdd/refactoring.md": {
+    "mtime": 1778456898.6382751,
+    "ast_hash": "ecbf516d99a591169adce39a8a933f2e",
+    "semantic_hash": "ecbf516d99a591169adce39a8a933f2e"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.agents/skills/tdd/tests.md": {
+    "mtime": 1778456898.6382751,
+    "ast_hash": "253c991bba867959c0146c72b93a6f6f",
+    "semantic_hash": "253c991bba867959c0146c72b93a6f6f"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.agents/skills/tdd/mocking.md": {
+    "mtime": 1778456898.638219,
+    "ast_hash": "c5505e8da8f516c7dacebd01c58a4c2c",
+    "semantic_hash": "c5505e8da8f516c7dacebd01c58a4c2c"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.agents/skills/prototype/UI.md": {
+    "mtime": 1778456898.592662,
+    "ast_hash": "c1eaad6437c90d5660b2ffc9ff91ffb4",
+    "semantic_hash": "c1eaad6437c90d5660b2ffc9ff91ffb4"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.agents/skills/prototype/SKILL.md": {
+    "mtime": 1778456898.5925794,
+    "ast_hash": "10ace9b5d79140b25d115bb8d840106d",
+    "semantic_hash": "10ace9b5d79140b25d115bb8d840106d"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.agents/skills/prototype/LOGIC.md": {
+    "mtime": 1778456898.5925794,
+    "ast_hash": "d57721452aacaa04caacd0bc7c5c2f49",
+    "semantic_hash": "d57721452aacaa04caacd0bc7c5c2f49"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/docs/superpowers/plans/2026-05-10-multi-source-episodes.md": {
+    "mtime": 1778596713.3437798,
+    "ast_hash": "6807c93d8eebe1531115d836c10b4fc5",
+    "semantic_hash": "6807c93d8eebe1531115d836c10b4fc5"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.claude/skills/improve-codebase-architecture/DEEPENING.md": {
+    "mtime": 1778456940.7331138,
+    "ast_hash": "ebdd48f7e3b0afeb8085d797df543e1a",
+    "semantic_hash": "ebdd48f7e3b0afeb8085d797df543e1a"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.claude/skills/improve-codebase-architecture/SKILL.md": {
+    "mtime": 1778456940.733233,
+    "ast_hash": "38f2089311c7cb0fa42d2dc4a3e1340e",
+    "semantic_hash": "38f2089311c7cb0fa42d2dc4a3e1340e"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.claude/skills/improve-codebase-architecture/INTERFACE-DESIGN.md": {
+    "mtime": 1778456940.7331634,
+    "ast_hash": "aee2c0695396f8c6432ba5bfe547f195",
+    "semantic_hash": "aee2c0695396f8c6432ba5bfe547f195"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.claude/skills/improve-codebase-architecture/LANGUAGE.md": {
+    "mtime": 1778456940.733198,
+    "ast_hash": "680627d828b489f96b92d4a2d7fa3bb6",
+    "semantic_hash": "680627d828b489f96b92d4a2d7fa3bb6"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.claude/skills/setup-matt-pocock-skills/SKILL.md": {
+    "mtime": 1778456940.7334728,
+    "ast_hash": "a9e22edd638f1b2bd5b3e2934eb209c3",
+    "semantic_hash": "a9e22edd638f1b2bd5b3e2934eb209c3"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.claude/skills/setup-matt-pocock-skills/domain.md": {
+    "mtime": 1778456940.7335217,
+    "ast_hash": "477d9959972912279da5677825ef61c3",
+    "semantic_hash": "477d9959972912279da5677825ef61c3"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.claude/skills/setup-matt-pocock-skills/issue-tracker-local.md": {
+    "mtime": 1778456940.7336338,
+    "ast_hash": "0f479992c0a4fd62a0d1be807f31e132",
+    "semantic_hash": "0f479992c0a4fd62a0d1be807f31e132"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.claude/skills/setup-matt-pocock-skills/issue-tracker-github.md": {
+    "mtime": 1778456940.7335567,
+    "ast_hash": "b3268117bb0bb6b731632d35d6a1369a",
+    "semantic_hash": "b3268117bb0bb6b731632d35d6a1369a"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.claude/skills/setup-matt-pocock-skills/issue-tracker-gitlab.md": {
+    "mtime": 1778456940.733591,
+    "ast_hash": "e91b1122d99f423b5375142a14b68f76",
+    "semantic_hash": "e91b1122d99f423b5375142a14b68f76"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.claude/skills/setup-matt-pocock-skills/triage-labels.md": {
+    "mtime": 1778456940.7336683,
+    "ast_hash": "22add54cb98451c55b20e6b7992d4a85",
+    "semantic_hash": "22add54cb98451c55b20e6b7992d4a85"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.claude/skills/to-issues/SKILL.md": {
+    "mtime": 1778456940.7339919,
+    "ast_hash": "a26ffd48dbf2d0ad29f65369b7dda42e",
+    "semantic_hash": "a26ffd48dbf2d0ad29f65369b7dda42e"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.claude/skills/write-a-skill/SKILL.md": {
+    "mtime": 1778456940.7343104,
+    "ast_hash": "492ef034b4fc9e497cc69b8fed78a742",
+    "semantic_hash": "492ef034b4fc9e497cc69b8fed78a742"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.claude/skills/grill-with-docs/SKILL.md": {
+    "mtime": 1778456940.732817,
+    "ast_hash": "5ad241e49d5ffcd394eeff3a5ca46953",
+    "semantic_hash": "5ad241e49d5ffcd394eeff3a5ca46953"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.claude/skills/grill-with-docs/CONTEXT-FORMAT.md": {
+    "mtime": 1778456940.732914,
+    "ast_hash": "57e7e26a1a46884f8f952c67fb233af2",
+    "semantic_hash": "57e7e26a1a46884f8f952c67fb233af2"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.claude/skills/grill-with-docs/ADR-FORMAT.md": {
+    "mtime": 1778456940.7329876,
+    "ast_hash": "bb327bab674f400796f64b6e2ef5850c",
+    "semantic_hash": "bb327bab674f400796f64b6e2ef5850c"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.claude/skills/zoom-out/SKILL.md": {
+    "mtime": 1778456940.7343907,
+    "ast_hash": "204f114b01386f4a0a8e6c7784266369",
+    "semantic_hash": "204f114b01386f4a0a8e6c7784266369"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.claude/skills/grill-me/SKILL.md": {
+    "mtime": 1778456940.7326407,
+    "ast_hash": "8cb45c74133150e6a00f18b2059aae8c",
+    "semantic_hash": "8cb45c74133150e6a00f18b2059aae8c"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.claude/skills/diagnose/SKILL.md": {
+    "mtime": 1778456940.7324648,
+    "ast_hash": "70cd92c9a5219eb8db60629b1bf59949",
+    "semantic_hash": "70cd92c9a5219eb8db60629b1bf59949"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.claude/skills/to-prd/SKILL.md": {
+    "mtime": 1778456940.7340698,
+    "ast_hash": "6b2fd61841ec7c51e148f8483f378a65",
+    "semantic_hash": "6b2fd61841ec7c51e148f8483f378a65"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.claude/skills/caveman/SKILL.md": {
+    "mtime": 1778456940.7320707,
+    "ast_hash": "d675bd2128851ccb38a88a15fd941986",
+    "semantic_hash": "d675bd2128851ccb38a88a15fd941986"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.claude/skills/triage/SKILL.md": {
+    "mtime": 1778456940.7342398,
+    "ast_hash": "dafdaa928b34a5c317fd190591c89a65",
+    "semantic_hash": "dafdaa928b34a5c317fd190591c89a65"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.claude/skills/triage/OUT-OF-SCOPE.md": {
+    "mtime": 1778456940.7342014,
+    "ast_hash": "d3fcb04f7f250f2d07ce4ccbc3a26c7d",
+    "semantic_hash": "d3fcb04f7f250f2d07ce4ccbc3a26c7d"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.claude/skills/triage/AGENT-BRIEF.md": {
+    "mtime": 1778456940.7341504,
+    "ast_hash": "7f815fa62b523f97710dde414f98e70b",
+    "semantic_hash": "7f815fa62b523f97710dde414f98e70b"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.claude/skills/tdd/SKILL.md": {
+    "mtime": 1778456940.733739,
+    "ast_hash": "7ca080c0a0b0986e031fe6a47771d57e",
+    "semantic_hash": "7ca080c0a0b0986e031fe6a47771d57e"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.claude/skills/tdd/deep-modules.md": {
+    "mtime": 1778456940.7337909,
+    "ast_hash": "fee2c44ab025f43e10ed717bb42cc9c2",
+    "semantic_hash": "fee2c44ab025f43e10ed717bb42cc9c2"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.claude/skills/tdd/interface-design.md": {
+    "mtime": 1778456940.733924,
+    "ast_hash": "fc309d957e5735a1ac3d27023842fa1b",
+    "semantic_hash": "fc309d957e5735a1ac3d27023842fa1b"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.claude/skills/tdd/refactoring.md": {
+    "mtime": 1778456940.7338576,
+    "ast_hash": "ecbf516d99a591169adce39a8a933f2e",
+    "semantic_hash": "ecbf516d99a591169adce39a8a933f2e"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.claude/skills/tdd/tests.md": {
+    "mtime": 1778456940.7338903,
+    "ast_hash": "253c991bba867959c0146c72b93a6f6f",
+    "semantic_hash": "253c991bba867959c0146c72b93a6f6f"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.claude/skills/tdd/mocking.md": {
+    "mtime": 1778456940.7338247,
+    "ast_hash": "c5505e8da8f516c7dacebd01c58a4c2c",
+    "semantic_hash": "c5505e8da8f516c7dacebd01c58a4c2c"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.claude/skills/prototype/UI.md": {
+    "mtime": 1778456940.7333915,
+    "ast_hash": "c1eaad6437c90d5660b2ffc9ff91ffb4",
+    "semantic_hash": "c1eaad6437c90d5660b2ffc9ff91ffb4"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.claude/skills/prototype/SKILL.md": {
+    "mtime": 1778456940.7333572,
+    "ast_hash": "10ace9b5d79140b25d115bb8d840106d",
+    "semantic_hash": "10ace9b5d79140b25d115bb8d840106d"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/.claude/skills/prototype/LOGIC.md": {
+    "mtime": 1778456940.733308,
+    "ast_hash": "d57721452aacaa04caacd0bc7c5c2f49",
+    "semantic_hash": "d57721452aacaa04caacd0bc7c5c2f49"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/puchflix-anime/index.html": {
+    "mtime": 1779295464.6170638,
+    "ast_hash": "e28245864b9490b80ed317d2154a9f4a",
+    "semantic_hash": "e28245864b9490b80ed317d2154a9f4a"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/puchflix-anime/README.md": {
+    "mtime": 1778596713.334816,
+    "ast_hash": "f6e3faf55d738cf2affe1b44195f27cf",
+    "semantic_hash": "f6e3faf55d738cf2affe1b44195f27cf"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/puchflix-anime/public/icons.svg": {
+    "mtime": 1778596713.336728,
+    "ast_hash": "3b4fcfcf393eca4d264dca4a4663bc37",
+    "semantic_hash": "3b4fcfcf393eca4d264dca4a4663bc37"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/puchflix-anime/public/favicon.svg": {
+    "mtime": 1778596713.3361826,
+    "ast_hash": "7e840862161341271697daa99a40d76b",
+    "semantic_hash": "7e840862161341271697daa99a40d76b"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/puchflix-anime/src/assets/react.svg": {
+    "mtime": 1778596713.3371828,
+    "ast_hash": "f0402b67b6ce880f65666bb49e841696",
+    "semantic_hash": "f0402b67b6ce880f65666bb49e841696"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/puchflix-anime/src/assets/vite.svg": {
+    "mtime": 1778596713.3371828,
+    "ast_hash": "9960a24288958394ac50e57ff638b036",
+    "semantic_hash": "9960a24288958394ac50e57ff638b036"
+  },
+  "/DATA/Documents/Proyectos-web/Proyecto-Anime/puchflix-anime/src/assets/hero.png": {
+    "mtime": 1778596713.3371828,
+    "ast_hash": "aead493361b27e7510691c5d7072dfc1",
+    "semantic_hash": "aead493361b27e7510691c5d7072dfc1"
+  }
+}
